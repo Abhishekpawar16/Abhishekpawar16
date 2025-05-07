@@ -1,7 +1,10 @@
-
 <h2 align="center"><strong>Hi 👋, I'm Abhishek Pawar</strong></h2>
+<p align="center"><strong>A passionate Data Science ,Data Analyst & Fullstack Enthusiast</strong></p>
 
-A passionate Data Science & Fullstack Enthusiast   
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
+</p>
+
 
 🔭 I’m currently working on a Stock Price Prediction and Recommendation System
 
@@ -9,16 +12,16 @@ A passionate Data Science & Fullstack Enthusiast
 
 📫 How to reach me: abhishekkharpuse994@gmail.com
 
-📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/your-resume-link/view?usp=sharing)
+📄 Know about my experiences: [My Resume]"C:\Users\abhis\Downloads\Abhishek Resume.pdf".
 
 ---
 
 ### Connect with me:  
 <p align="left">
-  <a href="[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/abhishek-pawar994/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/abhishek-pawar994/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://your-portfolio-link.com](https://abhishekpawar16.github.io/Abhishek-Portfolio/)" target="_blank">
+  <a href="(https://abhishekpawar16.github.io/Abhishek-Portfolio/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
